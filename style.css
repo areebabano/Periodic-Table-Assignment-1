@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+/* Universal Selector */
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+/* Heading */
+h1 {
+    color: black;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    text-shadow: 2px 2px 5px rgb(65, 10, 136);
+    margin: 15px 30px;
+}
+
+/* Table */
+table {
+    width: 100%;
+    margin: 20px 0;
+    border-spacing: 3px;
+}
+
+/* Table Cells */
+table tr td {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding: 5px 2px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+/* Paragraph */
+p {
+    font-size: 9px;
+    text-align: center;
+    font-weight: normal;
+}
+
+/* Sea Green */
+.sea_green {
+    background-color: rgb(14, 129, 133);
+}
+
+/* Purple */
+.purple {
+    background-color: rgb(178, 7, 178);
+}
+
+/* Yellow */
+.yellow {
+    background-color: rgb(248, 220, 8);
+}
+
+/* Orange */
+.orange {
+    background-color: rgb(245, 125, 6);
+}
+
+/* Grey */
+.grey {
+    background-color: rgb(169, 167, 167);
+}
+
+/* Red */
+.red {
+    background-color: rgb(247, 7, 7);
+}
+
+/* Sky Blue */
+.sky_blue {
+    background-color: rgb(101, 184, 217);
+}
+
+/* Black */
+.black {
+    background-color: black;
+}
+
+/* Blue */
+.blue {
+    background-color: rgb(0, 145, 255);
+}
+
+/* Pink */
+.pink {
+    background-color: rgb(207, 8, 101);
+}
+
+/* Light Green */
+.light_green {
+    background-color: rgb(61, 207, 8);
+}
